@@ -28,4 +28,4 @@ kainuoja = round(consumption * price, 3)
 
 kainuoja2 = 1.92
 
-
+print(info)
